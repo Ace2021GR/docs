@@ -6,7 +6,7 @@ title: Commands
 
 :::info Note
 ### Always remember the following!
-- The default prefix of Rythm is `!`. If you have changed your prefix to something else, please use your prefix instead of `!`. If you forget your prefix, mention Rythm (`@Rythm#3722`).
+- The default prefix of Rythm is `,`. If you have changed your prefix to something else, please use your prefix instead of `,`. If you forget your prefix, mention Rythm (`@Rythm#3722`).
 - **Never include `<>` in your messages when using a command!**
 - Time can be in different formats
    + Example: `100`, `1:50`, `2m30s`
@@ -15,19 +15,19 @@ title: Commands
 ## Song
 ---
 <!-- Song-related commands -->
-- **`!join`** - Summons the bot to the voice channel you are in.
+- **`,join`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`
 ---
-- **`!play`** - Plays a song with the given name or url. [**More Info**](/play_song)
-    - **Usage:** `!play <link/query>`
+- **`,play`** - Plays a song with the given name or url. [**More Info**](/play_song)
+    - **Usage:** `,play <link/query>`
     - **Alias:** `p`
 ---
-- **`!playtop`** - Adds a song with the given name/url __on the top of the queue__.
-    - **Usage:** `!playtop <link/query>`
+- **`,playtop`** - Adds a song with the given name/url __on the top of the queue__.
+    - **Usage:** `,playtop <link/query>`
     - **Aliases:** `pt`, `ptop`
 ---
-- **`!playskip`** - Skips the current song and plays the song you requested.
-    - **Usage:** `!playskip <link/query>`
+- **`,playskip`** - Skips the current song and plays the song you requested.
+    - **Usage:** `,playskip <link/query>`
     - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
 ---
 - **`!search`** - Searches from [Youtube](https://www.youtube.com) for a song via your query and returns the top 10 results.
